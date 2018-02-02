@@ -5,6 +5,8 @@ Example usage:
 
     $ listexamples $GOPATH/src/golang.org/
 
+    $ listexamples $GOROOT/src/*
+
 Copyright Mike Hughes 2018 (mike AT mikehughes DOT info)
 
 LICENSE: BSD 3-Clause License (see http://opensource.org/licenses/BSD-3-Clause)
