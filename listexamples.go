@@ -194,7 +194,7 @@ func (p pkg) String() string {
 					out += fmt.Sprintf("\t\t%s\n", m)
 				}
 			} else {
-				out += fmt.Sprintf("\t\tNo Examples for function %s in package %s\n", i, k) // Np examples.
+				out += fmt.Sprintf("\t\tNo Examples for function %s in package %s\n", i, k) // No examples.
 			}
 		}
 	}
